@@ -26,6 +26,7 @@ body {
 .search-container {
     background-color: #79a5df;
     padding: 5px;
+    text-align: center;
 }
 
 .forecast {
@@ -58,4 +59,8 @@ body {
 li:hover{
     background-color: lightslategray;
     text-decoration: underline;
+}
+
+.button-row{
+    text-align: center;
 }
