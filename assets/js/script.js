@@ -3,6 +3,17 @@
 //////////////////////////////////////////////////////////////////////////////////////
 
 // Store the elements related to the city search.
+
+
+
+
+
+
+
+
+
+
+
 var citySearch = document.querySelector(".city-search");
 var searchBTN = document.querySelector(".search-button");
 
