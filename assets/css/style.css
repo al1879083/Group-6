@@ -78,3 +78,15 @@ li:hover{
 .button-row{
     text-align: center;
 } 
+.img-fluid {
+    padding: 25%;
+    margin-right: 50px;
+    display:flex;
+    flex-direction: unset;
+}
+.btn-blue {
+    border:#071e3b
+}
+.row button-row h3 {
+    color:blue
+}
