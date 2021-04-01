@@ -1,7 +1,3 @@
-representatives.html
-
-
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -10,8 +6,8 @@ representatives.html
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
         <link rel="stylesheet" href="https://firezenk.github.io/zimit/css/zimit.min.css" />
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="./assets/css/style.css"/>
-        <title>Weather Forecast Dashboard</title>
+        <link rel="stylesheet" href="./assets/css/representativeStyle.css"/>
+        <title>Community Connect</title>
     </head>
     <body>
         <div class = "jumbotron">
@@ -22,16 +18,23 @@ representatives.html
         <div class="container">
             <div class="row">
                 <button class="btn-blue o3" id = "home-btn">Home</button>
-                <button class="btn-red o4">Search Bills</button>
+                <input type= "text" class = "o1" id= "address-input" placeholder = "Enter your address">
+                <button class="btn-black" id = "address-btn">submit</button>
+                <button class="btn-red o1">Search Bills</button>
             </div>
-            <div class="row button-row"> 
-                <div class="c6">
-                    <h3>Senate</h3>
-                    
+            <div id = "legislator-container" class = "row button-row">
+                <div class ="c6 legislator-info">
+                    <h3 id= "senate-container">Senate<br>
+                    <!-- Senate members go her-->
+                    </h3>
+            </div>
 
-                </div>
-                <div class="c6 ">
-                    <h3>Assembly</h3>
+            <div class ="c6 ">
+                <h3 id="assembly-container">Assembly
+                    <!--Assembly members go here-->
+                </h3>
+            </div>
+        
                     
 
                 </div>
