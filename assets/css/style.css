@@ -13,6 +13,10 @@ body {
     border-bottom: 10px solid black;
 }
 
+.container {
+    background-color: white;
+}
+
 .current-city {
     border: 1px;
     border-color: black;
@@ -22,25 +26,11 @@ body {
     font-weight: bold;
     font-size: larger;
 }
-.float-container {
-    display: flex;
-    flex: auto;
-    
-}
-.float-child {
-    flex: 1;
-    border: 2px solid yellow;
-    display: flexbox;
-}
-.flex-child:first-child {
-    margin-right: 20px;
-}
 
 .search-container {
     background-color: #79a5df;
     padding: 5px;
     text-align: center;
-    display: flexbox;
 }
 
 .forecast {
@@ -70,23 +60,43 @@ body {
     font-size: 20px;
 }
 
-li:hover{
-    background-color: lightslategray;
-    text-decoration: underline;
-}
-
 .button-row{
     text-align: center;
 } 
-.img-fluid {
-    padding: 0%;
-    margin-right: 50px;
-    display:flex;
-    flex-direction: unset;
+
+#representative-info {
+    text-align: center;
+    background-color: teal;
+    padding: 0px;
+    margin: 0px;
 }
-.btn-blue {
-    border:#071e3b
+
+.senate-container {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
 }
-.row button-row h3 {
-    color:blue
+
+#home-btn {
+    height: 50px;
+    width: 75px;
+}
+
+#address-input {
+    height: 50px;
+    width: 300px;
+}
+
+#address-btn {
+    height: 50px;
+    width: 75px;
+}
+
+#representatives {
+    height: 50px;
+    width: 200px;
+}
+
+#clear-history {
+    height: 50px;
 }
