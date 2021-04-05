@@ -93,8 +93,10 @@ body {
 }
 
 #representatives {
-    height: 50px;
+    height: 100px;
     width: 200px;
+    box-sizing: content-box;
+    font: optional;
 }
 
 #clear-history {
