@@ -1,6 +1,9 @@
 # Group-6 Project 
 Trello link: https://trello.com/b/KKh9c4DS/group-6
 Google Presentation link: https://docs.google.com/presentation/d/19DVKPpJb7Xwef2D9zM-LX-ylWprtWUAcY9Z45fdrVII/edit?usp=sharing
+Community Connect Homepage screenshot:
+![Community Connect Homepage screenshot](https://user-images.githubusercontent.com/71949043/113529407-2e47be80-9578-11eb-9afc-cbbb9f009ee7.png)
+
 
 Concept:
 
