@@ -10,7 +10,7 @@ const API_KEY = "AIzaSyC4aO3DIiD3MlMl-9VjHhOEr_BuTNQ1ATM";
 
 // Switch to the representatives page.
 representBTN.addEventListener("click", function(){
-    location.href = "representatives.html";
+    location.href = "representative.html";
 })
 
 // When the home page loads.
