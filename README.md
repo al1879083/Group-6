@@ -2,8 +2,8 @@
 Trello link: https://trello.com/b/KKh9c4DS/group-6
 Google Presentation link: https://docs.google.com/presentation/d/19DVKPpJb7Xwef2D9zM-LX-ylWprtWUAcY9Z45fdrVII/edit?usp=sharing
 Community Connect Homepage screenshot:
-![Community Connect Homepage screenshot](https://user-images.githubusercontent.com/71949043/113529407-2e47be80-9578-11eb-9afc-cbbb9f009ee7.png)
-
+<img width="586" alt="Screen Shot 2021-04-04 at 10 42 24 PM" src="https://user-images.githubusercontent.com/78574452/113541472-22b7c000-9597-11eb-8acd-40aed5239821.png">
+<img width="427" alt="Screen Shot 2021-04-04 at 10 46 44 PM" src="https://user-images.githubusercontent.com/78574452/113541721-aa9dca00-9597-11eb-833f-79784c205ae9.png">
 
 Concept:
 
