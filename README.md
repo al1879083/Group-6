@@ -5,6 +5,7 @@ Community Connect Homepage screenshot:
 
 <img width="586" alt="Screen Shot 2021-04-04 at 10 42 24 PM" src="https://user-images.githubusercontent.com/78574452/113541472-22b7c000-9597-11eb-8acd-40aed5239821.png">
 
+Community Connect "Who Represent Me?" Homepage screenshot:
 <img width="427" alt="Screen Shot 2021-04-04 at 10 46 44 PM" src="https://user-images.githubusercontent.com/78574452/113541721-aa9dca00-9597-11eb-833f-79784c205ae9.png">
 
 Concept:
