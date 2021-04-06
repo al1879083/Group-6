@@ -18,8 +18,9 @@ Our motivation for this app is to enhance the user participation in the politica
 
 User Story:
 
-As a voter or potential voter I would like quick information about my elected representatives and the bills in play.
- Where are their offices? 
- How do I contact them? 
- Description of bills.
+As a voter or potential voter I would like quick information about my elected representatives.
+Who are they?
+Where are their offices? 
+How do I contact them? 
+
 
