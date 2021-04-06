@@ -1,4 +1,5 @@
-# Group-6 Project 
+# Group-6 Project
+GitHub Page Link: https://al1879083.github.io/Group-6/
 Trello link: https://trello.com/b/KKh9c4DS/group-6
 Google Presentation link: https://docs.google.com/presentation/d/19DVKPpJb7Xwef2D9zM-LX-ylWprtWUAcY9Z45fdrVII/edit?usp=sharing
 
